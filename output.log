@@ -1,0 +1,151 @@
+Script started on Sun Dec  1 15:02:00 2024
+Command: npm start
+
+> weg-native@1.0.0 start
+> expo start
+
+[1G[0K[90mStarting project at /Users/jayaraj/Documents/weg-native[39m
+› Port [1m8081[22m is running this app in another window
+[90m  /Users/jayaraj/Documents/weg-native [90m(pid 6252)[39m[90m[39m
+[?25l[2K[1G[36m?[39m [1mUse port 8082 instead?[22m [90m›[39m [90m(Y/n)[39m[2K[G[2K[1G[32m✔[39m [1mUse port 8082 instead?[22m [90m…[39m yes
+[?25h  [38;5;113;1mnativewind [0minput: /Users/jayaraj/Documents/weg-native/global.css [38;5;113m+0ms[0m
+  [38;5;113;1mnativewind [0mimportant: undefined [38;5;113m+11ms[0m
+  [38;5;113;1mnativewind [0mchecking TypeScript setup [38;5;113m+0ms[0m
+  [38;5;113;1mnativewind [0mwithCssInterop [38;5;113m+0ms[0m
+  [38;5;113;1mnativewind [0moutputDirectory /Users/jayaraj/Documents/weg-native/node_modules/react-native-css-interop/.cache [38;5;113m+0ms[0m
+  [38;5;113;1mnativewind [0misRadonIDE: false [38;5;113m+0ms[0m
+[144D[2K[2mStarting Metro Bundler[22m
+  [38;5;113;1mnativewind [0menhanceMiddleware.setup [38;5;113m+107ms[0m
+[144D[2K▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀█▀▄▀█ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀█▄▄█ █   █ █
+█ █▄▄▄█ █▀  █▄▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄█▄█▄▄▄▄▄▄▄█
+█▄ ▀▀▄▄▄███▄█▄▀▄ ███ ▀▄▄ ▄█
+█▄▄▀▄▄▀▄█▀ ▄█▀██ ▀▀ █▄  ▀██
+█ ▄██ █▄█ ▀▀▄▀█▄▀▄▀▄▀▀▄ ▀██
+███▀▀▀█▄▀▄ █ ▄██▄▄▄█▄▀ ▀�DEBUG=nativewind script output.log npx start expo            pm  npm start[?2004l
+Script started, output file is output.log
+
+> weg-native@1.0.0 start
+> expo start
+
+[1G[0K[90mStarting project at /Users/jayaraj/Documents/weg-native[39m
+› Port [1m8081[22m is running this app in another window
+[90m  /Users/jayaraj/Documents/weg-native [90m(pid 6252)[39m[90m[39m
+[?25l[2K[1G[36m?[39m [1mUse port 8082 instead?[22m [90m›[39m [90m(Y/n)[39m[2K[G[2K[1G[32m✔[39m [1mUse port 8082 instead?[22m [90m…[39m yes
+[?25h  [38;5;113;1mnativewind [0minput: /Users/jayaraj/Documents/weg-native/global.css [38;5;113m+0ms[0m
+  [38;5;113;1mnativewind [0mimportant: undefined [38;5;113m+11ms[0m
+  [38;5;113;1mnativewind [0mchecking TypeScript setup [38;5;113m+0ms[0m
+  [38;5;113;1mnativewind [0mwithCssInterop [38;5;113m+0ms[0m
+  [38;5;113;1mnativewind [0moutputDirectory /Users/jayaraj/Documents/weg-native/node_modules/react-native-css-interop/.cache [38;5;113m+0ms[0m
+  [38;5;113;1mnativewind [0misRadonIDE: false [38;5;113m+0ms[0m
+[144D[2K[2mStarting Metro Bundler[22m
+  [38;5;113;1mnativewind [0menhanceMiddleware.setup [38;5;113m+107ms[0m
+[144D[2K▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀█▀▄▀█ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀█▄▄█ █   █ █
+█ █▄▄▄█ █▀  █▄▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄█▄█▄▄▄▄▄▄▄█
+█▄ ▀▀▄▄▄███▄█▄▀▄ ███ ▀▄▄ ▄█
+█▄▄▀▄▄▀▄█▀ ▄█▀██ ▀▀ █▄  ▀██
+█ ▄██ █▄█ ▀▀▄▀█▄▀▄▀▄▀▀▄ ▀██
+███▀▀▀█▄▀▄ █ ▄██▄▄▄█▄▀ ▀███
+█▄▄▄▄▄█▄█▀▄▄█▄▀▄▄ ▄▄▄ ▀ ▄▄█
+█ ▄▄▄▄▄ █▀█▄█▀▄█▀ █▄█ ▀▀▀▀█
+█ █   █ █▄▄▀▄▀▄ █▄▄ ▄▄▀   █
+█ █▄▄▄█ █▀▄  ▄ ▄▄██▄▀█▀▀ ██
+█▄▄▄▄▄▄▄█▄▄▄█▄▄█████▄▄▄▄▄▄█
+
+[144D[2K› Metro waiting on [4mexp://192.168.1.9:8082[24m
+[144D[2K› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+[144D[2K
+[144D[2K› Web is waiting on [4mhttp://localhost:8082[24m
+[144D[2K
+[144D[2K› Using [36mExpo Go[39m
+[144D[2K› Press [1ms[22m [2m│[22m switch to development build
+
+› Press [1ma[22m [2m│[22m open Android
+› Press [1mi[22m [2m│[22m open iOS simulator
+› Press [1mw[22m [2m│[22m open web
+
+› Press [1mj[22m [2m│[22m open debugger
+› Press [1mr[22m [2m│[22m reload app
+› Press [1mm[22m [2m│[22m toggle menu
+› [1mshift+m[22m [2m│[22m more tools
+› Press [1mo[22m [2m│[22m open project code in your editor
+
+[144D[2K› Press [1m?[22m [2m│[22m show all commands
+[144D[2K
+[144D[2KLogs for your project will appear below.[2m Press Ctrl+C to exit.[22m
+[?25l[37m⠋[39m Stopping server[2K[1G[?25h› Stopped server
+[?25h[1G[0K⠙[1G[0K
+Script done, output file is output.log
+[1m[7m%[27m[1m[0m                                                                                                                                                [0m[27m[24m[Jjayaraj@192 weg-native % [K[?2004hnnpm i -d  [7mprettier@^3.1.0[27m[15D[27mp[27mr[27me[27mt[27mt[27mi[27me[27mr[27m@[27m^[27m3[27m.[27m1[27m.[27m0 --save-dev[?2004l
+(node:8339) ExperimentalWarning: CommonJS module /Users/jayaraj/.nvm/versions/node/v23.3.0/lib/node_modules/npm/node_modules/debug/src/node.js is loading ES Module /Users/jayaraj/.nvm/versions/node/v23.3.0/lib/node_modules/npm/node_modules/supports-color/index.js using require().
+Support for loading ES Module in require() is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K
+added 1 package, and audited 1213 packages in 2s
+[1G[0K⠏[1G[0K
+[1G[0K⠏[1G[0K112 packages are looking for funding
+[1G[0K⠏[1G[0K  run `npm fund` for details
+[1G[0K⠏[1G[0K
+5 [1mlow[22m severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1G[0K⠋[1G[0K[1m[7m%[27m[1m[0m                                                                                                                                                [0m[27m[24m[Jjayaraj@192 weg-native % [K[?2004hnpm i prettier@^3.1.0 --save-dev[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[7me[7ms[7ml[7mi[7mn[7mt[7m@[7m^[7m8[7m.[7m5[7m2.0[27m --save-dev[11D[14D[27me[27ms[27ml[27mi[27mn[27mt[27m@[27m^[27m8[27m.[27m5[27m2[27m.[27m0[?2004l
+(node:8376) ExperimentalWarning: CommonJS module /Users/jayaraj/.nvm/versions/node/v23.3.0/lib/node_modules/npm/node_modules/debug/src/node.js is loading ES Module /Users/jayaraj/.nvm/versions/node/v23.3.0/lib/node_modules/npm/node_modules/supports-color/index.js using require().
+Support for loading ES Module in require() is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K[1mnpm[22m [33mwarn[39m [94mdeprecated[39m @humanwhocodes/config-array@0.13.0: Use @eslint/config-array instead
+[1G[0K⠋[1G[0K[1mnpm[22m [33mwarn[39m [94mdeprecated[39m @humanwhocodes/object-schema@2.0.3: Use @eslint/object-schema instead
+[1G[0K⠋[1G[0K[1mnpm[22m [33mwarn[39m [94mdeprecated[39m eslint@8.57.1: This version is no longer supported. Please see https://eslint.org/version-support for other options.
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K
+added 48 packages, and audited 1261 packages in 1s
+[1G[0K⠸[1G[0K
+[1G[0K⠸[1G[0K122 packages are looking for funding
+[1G[0K⠸[1G[0K  run `npm fund` for details
+[1G[0K⠸[1G[0K
+5 [1mlow[22m severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1G[0K⠸[1G[0K[1m[7m%[27m[1m[0m                                                                                                                                                [0m[27m[24m[Jjayaraj@192 weg-native % [K[?2004hnpm i eslint@^8.52.0 --save-dev[1C[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[7mp[7mr[7me[7mt[7mt[7mi[7me[7mr[7m-[7me[7ms[7mlint@^16.1.2[27m --save-dev[11D[23D[27mp[27mr[27me[27mt[27mt[27mi[27me[27mr[27m-[27me[27ms[27ml[27mi[27mn[27mt[27m@[27m^[27m1[27m6[27m.[27m1[27m.[27m2[?2004l
+(node:8400) ExperimentalWarning: CommonJS module /Users/jayaraj/.nvm/versions/node/v23.3.0/lib/node_modules/npm/node_modules/debug/src/node.js is loading ES Module /Users/jayaraj/.nvm/versions/node/v23.3.0/lib/node_modules/npm/node_modules/supports-color/index.js using require().
+Support for loading ES Module in require() is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K
+added 25 packages, and audited 1286 packages in 6s
+[1G[0K⠼[1G[0K
+[1G[0K⠼[1G[0K130 packages are looking for funding
+[1G[0K⠼[1G[0K  run `npm fund` for details
+[1G[0K⠼[1G[0K
+5 [1mlow[22m severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1G[0K⠼[1G[0K[1m[7m%[27m[1m[0m                                                                                                                                                [0m[27m[24m[Jjayaraj@192 weg-native % [K[?2004hnpm i prettier-eslint@^16.1.2 --save-dev[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[P[11C [12D[7m@[7mt[7my[7mp[7me[7ms[7mc[7mr[7mi[7mp[7mt[7m-eslint/parser@^5.0.1[27m --save-dev[11D[32D[27m@[27mt[27my[27mp[27me[27ms[27mc[27mr[27mi[27mp[27mt[27m-[27me[27ms[27ml[27mi[27mn[27mt[27m/[27mp[27ma[27mr[27ms[27me[27mr[27m@[27m^[27m5[27m.[27m0[27m.[27m1[?2004l
+(node:8444) ExperimentalWarning: CommonJS module /Users/jayaraj/.nvm/versions/node/v23.3.0/lib/node_modules/npm/node_modules/debug/src/node.js is loading ES Module /Users/jayaraj/.nvm/versions/node/v23.3.0/lib/node_modules/npm/node_modules/supports-color/index.js using require().
+Support for loading ES Module in require() is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K
+added 10 packages, removed 2 packages, changed 5 packages, and audited 1294 packages in 2s
+[1G[0K⠼[1G[0K
+[1G[0K⠼[1G[0K135 packages are looking for funding
+[1G[0K⠼[1G[0K  run `npm fund` for details
+[1G[0K⠼[1G[0K
+5 [1mlow[22m severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1G[0K⠼[1G[0K[1m[7m%[27m[1m[0m                                                                                                                                                [0m[27m[24m[Jjayaraj@192 weg-native % [K[?2004h
